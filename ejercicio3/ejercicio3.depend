@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547648629 source:d:\documents\utpl\5to ciclo\programación\proyectos c++\2do bimestre\16_enero_2019\ejercicio3\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+
